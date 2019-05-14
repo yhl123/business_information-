@@ -87,4 +87,4 @@ class My_pyodbc(object):
 
 
 if __name__ == '__main__':
-    my_pyodbc = My_pyodbc('SQL_server', 'sa', 'yxxy')
+    my_pyodbc = My_pyodbc('xxx', 'xxx', 'xxx')
